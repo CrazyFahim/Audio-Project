@@ -1,0 +1,5 @@
+pyaudio
+wave
+threading
+tkinter 
+speech_recognition
